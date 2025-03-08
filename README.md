@@ -1,5 +1,7 @@
 # Projeto de Rádio - Descrição Técnica
 
+https://radio-browser-rb.vercel.app/
+
 ## Visão Geral
 
 - Este projeto foi desenvolvido para fornecer uma experiência moderna e gestão de rádios online, permitindo que os usuários pesquisem, escutem e favoritem suas estações preferidas. O desenvolvimento foi realizado com React, TypeScript e Vite, garantindo robustez e escalabilidade.
